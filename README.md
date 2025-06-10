@@ -12,6 +12,7 @@ Welcome to the repository for my Final Year Project: **Drowsiness Detection Syst
 - [Methodology](#methodology)
 - [Results](#results)
 - [Tech Stack](#tech-stack)
+- [Scientific Paper](#scientific-paper)
 - [License](#license)
 
 
@@ -81,8 +82,10 @@ Drowsiness is a critical factor in many accidents, yet detection systems are oft
 
 ---
 
-## Scientific Paper
-- **Read More:** [Paper](https://ddc-dictionary.en.softonic.com/android](https://github.com/Dendup67/Final-year-project/blob/main/Scientific%20paper_Group3_FYP2021.pdf)
+## Scientific Paper  
+
+- **Read More:** [Paper](https://github.com/Dendup67/Final-year-project/blob/main/Scientific%20paper_Group3_FYP2021.pdf)
+
 
 ## License
 
