@@ -12,7 +12,6 @@ Welcome to the repository for my Final Year Project: **Drowsiness Detection Syst
 - [Methodology](#methodology)
 - [Results](#results)
 - [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
 - [License](#license)
 
 
@@ -82,30 +81,12 @@ Drowsiness is a critical factor in many accidents, yet detection systems are oft
 
 ---
 
-## Project Structure
-
-```
-final-year-project/
-├── data/
-│   ├── train/
-│   ├── val/
-│   └── test/
-├── models/
-│   └── drowsiness_model.h5
-├── src/
-│   ├── train.py
-│   ├── evaluate.py
-│   └── predict.py
-├── requirements.txt
-├── README.md
-└── docs/
-    └── DATASET.md
-```
-
----
+## Scientific Paper
+- **Read More:** [Paper](https://ddc-dictionary.en.softonic.com/android](https://github.com/Dendup67/Final-year-project/blob/main/Scientific%20paper_Group3_FYP2021.pdf)
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+
